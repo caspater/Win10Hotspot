@@ -1,0 +1,10 @@
+c:\users\caspater\documents\visual studio 2015\Projects\McWiFi\McWiFi\bin\Debug\McWiFi.exe.config
+c:\users\caspater\documents\visual studio 2015\Projects\McWiFi\McWiFi\bin\Debug\McWiFi.exe
+c:\users\caspater\documents\visual studio 2015\Projects\McWiFi\McWiFi\bin\Debug\McWiFi.pdb
+c:\users\caspater\documents\visual studio 2015\Projects\McWiFi\McWiFi\obj\Debug\McWiFi.Home.resources
+c:\users\caspater\documents\visual studio 2015\Projects\McWiFi\McWiFi\obj\Debug\McWiFi.StartPage.resources
+c:\users\caspater\documents\visual studio 2015\Projects\McWiFi\McWiFi\obj\Debug\McWiFi.Properties.Resources.resources
+c:\users\caspater\documents\visual studio 2015\Projects\McWiFi\McWiFi\obj\Debug\McWiFi.csproj.GenerateResource.Cache
+c:\users\caspater\documents\visual studio 2015\Projects\McWiFi\McWiFi\obj\Debug\McWiFi.exe
+c:\users\caspater\documents\visual studio 2015\Projects\McWiFi\McWiFi\obj\Debug\McWiFi.pdb
+C:\Users\Caspater\Documents\Visual Studio 2015\Projects\McWiFi\McWiFi\obj\Debug\McWiFi.csprojResolveAssemblyReference.cache
